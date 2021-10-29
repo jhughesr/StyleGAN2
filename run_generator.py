@@ -1,6 +1,4 @@
-pip install --upgrade pip
-
-pip install colabcode
+pip install colabcode --upgrade pip
 
 from colabcode import ColabCode
 
